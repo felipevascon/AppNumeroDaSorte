@@ -15,7 +15,7 @@ O aplicativo tem como objetivo gerar números aleatórios que podem ser utilizad
 - **Linguagem de Programação**: C#  
 - **Framework**: .NET MAUI
 
-##Gravação da tela de um celular
+## Gravação da tela de um celular
 
 https://github.com/user-attachments/assets/d174a85f-6698-4fae-bead-e27bc6bc76a8
 
