@@ -1,25 +1,56 @@
-# Número da Sorte
+#🍀 Número da Sorte
 
-## Descrição
+##🗒️ Descrição
 
 O **Número da Sorte** é um aplicativo móvel desenvolvido como parte da disciplina _Software para Smartphone_, do curso de Engenharia Eletrônica e de Computação da UFRJ.  
 O aplicativo tem como objetivo gerar números aleatórios que podem ser utilizados em sorteios, jogos, entre outros.
 
-## Funcionalidades
+##💡 Funcionalidades
 
 - **Geração de Números Aleatórios**: permite ao usuário gerar números aleatórios entre 0 e 60.
 
-## Tecnologias Utilizadas
+##⚙️ Tecnologias Utilizadas
 
 - **Plataforma**: Android / iOS / Windows  
 - **Linguagem de Programação**: C#  
 - **Framework**: .NET MAUI
 
-## Gravação da execução do app em um smartphone Android
+## 📱 Como Rodar o Aplicativo no Visual Studio
 
-https://github.com/user-attachments/assets/19e7af50-eeba-424e-83cd-9764622dfcf6
+### Pré-requisitos
 
-## Screenshots
+- Visual Studio 2022 (ou superior) com suporte ao **.NET MAUI**
+- Android SDK instalado (para execução em emulador ou dispositivo Android)
+
+### Passo a Passo
+
+1. **Clone este repositório**
+
+   ```bash
+   git clone https://github.com/felipevascon/AppNumeroDaSorte
+   cd AppNumeroDaSorte
+
+2. **Abra o projeto no Visual Studio**  
+   - Vá em `File > Open > Project/Solution`  
+   - Selecione o arquivo `.sln` da solução  
+
+3. **Restaure os pacotes NuGet**  
+   - Caso esse passo não tenha sido executado de forma automática pelo Visual Studio, clique com o botão direito na solução e selecione **Restore NuGet Packages**.  
+
+4. **Configure o dispositivo de execução**  
+   - Na barra superior do Visual Studio, escolha o destino:  
+     - `Windows Machine`  
+     - `Android Emulator`  
+     - `Dispositivo físico Android`  
+
+5. **Compile e execute o aplicativo**  
+   - Pressione `F5` ou clique no botão **Start** (ícone ▶️).
+
+##🎥 Gravação da execução do app em um smartphone Android ▶️
+
+[Vídeo de demonstração](https://github.com/user-attachments/assets/1610b2dd-cb15-4fda-bd68-d1026d495af1)
+
+## Screenshots das simulações em diferentes plataformas
 
 ### Windows
 
@@ -32,7 +63,11 @@ https://github.com/user-attachments/assets/19e7af50-eeba-424e-83cd-9764622dfcf6
 ### Android
 
 #### Tela 1 - Tela de carregamento do app
-![AppNumeroDaSorte-Android1](https://github.com/user-attachments/assets/f6d38565-3f7f-4ab7-9235-539228cc052d)
+![AppNumeroDaSorte-Android1](https:
+
+https://github.com/user-attachments/assets/34c41c97-fe41-4856-a1a5-5dc91718cbe3
+
+//github.com/user-attachments/assets/f6d38565-3f7f-4ab7-9235-539228cc052d)
 
 #### Tela 2 - Tela inicial do app
 ![AppNumeroDaSorte-Android2](https://github.com/user-attachments/assets/30b49629-a281-46c8-9b44-8e98b97f2549)
