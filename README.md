@@ -48,7 +48,7 @@ O aplicativo tem como objetivo gerar números aleatórios que podem ser utilizad
 
 ## 🎥 Gravação da execução do app em um smartphone Android ▶️
 
-[▶ Vídeo Demonstração](https://github.com/user-attachments/assets/1610b2dd-cb15-4fda-bd68-d1026d495af1)
+![▶ Vídeo Demonstração](https://github.com/user-attachments/assets/1610b2dd-cb15-4fda-bd68-d1026d495af1)
 
 ## Screenshots das simulações em diferentes plataformas
 
@@ -63,11 +63,7 @@ O aplicativo tem como objetivo gerar números aleatórios que podem ser utilizad
 ### Android
 
 #### Tela 1 - Tela de carregamento do app
-![AppNumeroDaSorte-Android1](https:
-
-https://github.com/user-attachments/assets/34c41c97-fe41-4856-a1a5-5dc91718cbe3
-
-//github.com/user-attachments/assets/f6d38565-3f7f-4ab7-9235-539228cc052d)
+![AppNumeroDaSorte-Android1](https://github.com/user-attachments/assets/e6523153-864d-4abf-acfb-810a637dbc0f)
 
 #### Tela 2 - Tela inicial do app
 ![AppNumeroDaSorte-Android2](https://github.com/user-attachments/assets/30b49629-a281-46c8-9b44-8e98b97f2549)
