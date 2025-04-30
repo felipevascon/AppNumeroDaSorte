@@ -1,4 +1,4 @@
-## 🍀 Número da Sorte
+# 🍀 Número da Sorte
 
 ## 🗒️ Descrição
 
@@ -48,7 +48,7 @@ O aplicativo tem como objetivo gerar números aleatórios que podem ser utilizad
 
 ##🎥 Gravação da execução do app em um smartphone Android ▶️
 
-[Vídeo Demonstração](https://github.com/user-attachments/assets/1610b2dd-cb15-4fda-bd68-d1026d495af1)
+![Vídeo Demonstração](https://github.com/user-attachments/assets/1610b2dd-cb15-4fda-bd68-d1026d495af1)
 
 ## Screenshots das simulações em diferentes plataformas
 
