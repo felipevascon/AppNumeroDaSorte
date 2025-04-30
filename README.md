@@ -1,15 +1,15 @@
-#🍀 Número da Sorte
+## 🍀 Número da Sorte
 
-##🗒️ Descrição
+## 🗒️ Descrição
 
 O **Número da Sorte** é um aplicativo móvel desenvolvido como parte da disciplina _Software para Smartphone_, do curso de Engenharia Eletrônica e de Computação da UFRJ.  
 O aplicativo tem como objetivo gerar números aleatórios que podem ser utilizados em sorteios, jogos, entre outros.
 
-##💡 Funcionalidades
+## 💡 Funcionalidades
 
 - **Geração de Números Aleatórios**: permite ao usuário gerar números aleatórios entre 0 e 60.
 
-##⚙️ Tecnologias Utilizadas
+## ⚙️ Tecnologias Utilizadas
 
 - **Plataforma**: Android / iOS / Windows  
 - **Linguagem de Programação**: C#  
@@ -41,14 +41,14 @@ O aplicativo tem como objetivo gerar números aleatórios que podem ser utilizad
    - Na barra superior do Visual Studio, escolha o destino:  
      - `Windows Machine`  
      - `Android Emulator`  
-     - `Dispositivo físico Android`  
+     - `Dispositivo físico Android (Seu)`  
 
 5. **Compile e execute o aplicativo**  
    - Pressione `F5` ou clique no botão **Start** (ícone ▶️).
 
 ##🎥 Gravação da execução do app em um smartphone Android ▶️
 
-[Vídeo de demonstração](https://github.com/user-attachments/assets/1610b2dd-cb15-4fda-bd68-d1026d495af1)
+[Vídeo Demonstração](https://github.com/user-attachments/assets/1610b2dd-cb15-4fda-bd68-d1026d495af1)
 
 ## Screenshots das simulações em diferentes plataformas
 
