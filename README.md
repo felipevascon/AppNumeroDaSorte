@@ -15,7 +15,7 @@ O aplicativo tem como objetivo gerar números aleatórios que podem ser utilizad
 - **Linguagem de Programação**: C#  
 - **Framework**: .NET MAUI
 
-## 📱 Como Rodar o Aplicativo no Visual Studio
+## 🧰 Como Rodar o Aplicativo no Visual Studio
 
 ### Pré-requisitos
 
@@ -50,9 +50,9 @@ O aplicativo tem como objetivo gerar números aleatórios que podem ser utilizad
 
 [▶ **Vídeo Demonstração**](https://github.com/user-attachments/assets/1610b2dd-cb15-4fda-bd68-d1026d495af1)
 
-## Screenshots das simulações em diferentes plataformas
+## ♻️ Screenshots das simulações em diferentes plataformas
 
-### Windows
+### 🖥️ Windows
 
 #### Passo 1 - Após o run no modo "Windows Machine" do Visual Studio 2022
 ![AppNumeroDaSorte-Windows](https://github.com/user-attachments/assets/dc36f8a5-3db0-4a70-9f01-121f9476f212)
@@ -60,7 +60,7 @@ O aplicativo tem como objetivo gerar números aleatórios que podem ser utilizad
 #### Passo 2 - Após o uso do botão
 ![AppNumeroDaSorte-Windows2](https://github.com/user-attachments/assets/abe53726-9c10-4194-b19a-c7323e6685a2)
 
-### Android
+### 📱 Android
 
 #### Tela 1 - Tela de carregamento do app
 ![AppNumeroDaSorte-Android1](https://github.com/user-attachments/assets/e6523153-864d-4abf-acfb-810a637dbc0f)
